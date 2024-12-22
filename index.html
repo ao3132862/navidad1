@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title font color="white"> NAVIDAD </title></font>
+<title> NAVIDAD </title></font>
   <style>
     body {
       font-family: Courier ;
